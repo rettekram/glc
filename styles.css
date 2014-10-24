@@ -1,11 +1,23 @@
 body {
 	height: 100%;
-	margin-top: 60px;
+	margin-top: 10%;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
 }
 
 .container {
 	position: relative;
 	z-index: 10;
+}
+
+h1 {
+	font-weight: 300;
+	font-size: 72px;
+}
+
+h2 {
+	font-weight: 600;
 }
 
 #bg {
