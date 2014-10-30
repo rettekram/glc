@@ -12,12 +12,13 @@ body {
 }
 
 h1 {
-	font-weight: 300;
-	font-size: 72px;
+	font-weight: 600;
+	font-size: 48px;
+	text-transform: uppercase;
 }
 
 h2 {
-	font-weight: 600;
+	font-weight: 400;
 }
 
 #bg {
@@ -38,3 +39,6 @@ h2 {
 	min-width: 50%;
 	min-height: 50%;
 }
+
+
+
